@@ -1,0 +1,15 @@
+h1#blog-title {
+    text-align: center;
+}
+
+#header {
+    margin-bottom: 40px;
+}
+
+.service-title {
+    font-family: 'Lobster',cursive;
+}
+
+#content {
+    margin-bottom: 40px;
+}

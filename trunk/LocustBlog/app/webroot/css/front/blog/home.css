@@ -1,0 +1,29 @@
+/**
+ ページングの表示に関する設定
+*/
+#paging {
+    text-align: center;
+}
+
+#paging_count {
+    text-align: center;
+}
+
+#st_header {
+    width: 100%;  
+    padding: 20px;  
+    border-bottom: 1px solid #CCC;  
+    color: #FFF;  
+    position: fixed;  
+    top:0;  
+    left:0;  
+}
+
+#st_header h1   {  
+    width: 800px;  
+    margin: 0 auto;  
+}  
+
+.entry {
+    margin-bottom: 40px;
+}
