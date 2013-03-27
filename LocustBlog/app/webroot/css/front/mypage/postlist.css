@@ -1,0 +1,31 @@
+#month_list {
+    text-align: center;
+}
+
+#month_list a.year {
+    text-decoration: none;
+}
+
+#month_list a.month {
+    margin-left : 5px;
+    margin-right : 5px;
+    text-decoration: none;
+    color: #cccccc;
+}
+
+#month_list a.month:hover {
+    border-bottom: 1px solid;
+    border-color: #cc0000;
+    color: #000000;
+}
+
+#month_list span.divider {
+    border-right: 1px dotted;
+}
+
+#month_list span.selected {
+    margin-left : 5px;
+    margin-right : 5px;
+    border-bottom: 2px solid;
+    border-color: #00cc00;
+}

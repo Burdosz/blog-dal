@@ -1,0 +1,15 @@
+.service-title {
+    font-family: 'Lobster',cursive;
+}
+
+#new-btn {
+    margin-bottom: 30px;
+}
+
+.max-width {
+    width: 100%;
+}
+
+.max-height {
+    height: 100%;
+}

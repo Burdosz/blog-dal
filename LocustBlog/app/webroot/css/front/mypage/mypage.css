@@ -1,0 +1,41 @@
+/**
+ ページングの表示に関する設定
+*/
+
+html {
+    height:100%;
+}
+
+body {
+    padding-top: 40px;
+    height:100%;
+}
+
+#paging {
+    text-align: center;
+}
+
+#paging_count {
+    text-align: center;
+}
+
+.max-height {
+    height: 100%;
+}
+
+.max-width {
+    width: 100%;
+}
+
+.menu-title {
+    background-color: #222222;/*#0088ff;*/
+    color: #fefefe;
+}
+
+.menu-title h5 {
+    margin-left:10px;
+}
+
+.service-title {
+    font-family: 'Lobster',cursive;
+}
